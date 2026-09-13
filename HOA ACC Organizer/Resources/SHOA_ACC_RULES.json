@@ -1,0 +1,222 @@
+[
+  {
+      "category": "OTHER",
+      "title": "OTHER",
+      "ruleSection": "See Inspector Notes",
+      "ruleText": "N/A",
+      "noticeText": "N/A",
+      "correctiveAction": "Please correct the issue as soon as possble",
+      "correctionDays": 16,
+      "isActive": true
+  },
+  {
+      "category": "Land Use",
+      "title": "No Commercial Ventures",
+      "ruleSection": "ARTICLE III Section 3",
+      "ruleText": "No business or commercial venture, other than the model home and builder, shall be permitted within the properties",
+      "noticeText": "Your business is not permitted to operate within the HOA.",
+      "correctiveAction": "It is reccomended to reloacte your operations. The HOA reserves the right to proceeed with legal action.",
+      "correctionDays": 25,
+      "isActive": true
+  },
+  {
+      "category": "Building Materials",
+      "title": "Construction Materials must conform to HOA Rules",
+      "ruleSection": "ARTICLE III Section 4",
+      "ruleText": "The exterior walls of all buildings constructed on any Lot, including Residences, garages and outbuildings, shall be (i) constructed of brick or stone, (ii) covered-with solid wood siding, (ii) covered with horizontal hardboard type siding, (iv) covered with horizontal aluminum siding, (v) covered with horizontal vinyl siding, or (vi) constructed or covered with any other material approved in writing by the Architectural Control Committee. ",
+      "noticeText": "Your property must comply to HOA guidelines.",
+      "correctiveAction": "You are required to conform to the ACC guidlines and submit applications for any further alterations.",
+      "correctionDays": 25,
+      "isActive": true
+  },
+  {
+      "category": "Nuisance",
+      "title": "Nuisance or Offensive Activity",
+      "ruleSection": "Article III, Section 10",
+      "ruleText": "No noxious or offensive activity, including unduly loud noise, shall be carried on upon any Lot, nor shall anything be done thereon which may be or may become an annoyance or nuisance to the neighborhood. (Ex: the construction and/or use of skateboard ramps, etc.) The burning of leaves will be permitted on any lot provided that said burning does not become an annoyance or a nuisance to other lot owners or other residents in the vicinity of the Subdivision.",
+      "noticeText": "A condition or activity on the property has been observed that may constitute a nuisance or annoyance to neighboring residents.",
+      "correctiveAction": "Please discontinue or correct the nuisance or offensive activity so that it no longer disturbs neighboring properties.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Vehicles",
+      "title": "Off-Road Vehicles",
+      "ruleSection": "Article III, Section 11",
+      "ruleText": "No dirt bikes, three wheelers, go carts, other off-road vehicles or other types of vehicles which cause annoyance to other lot owners shall be operated upon the streets or lots of the Section or Subdivision. The operation of any such vehicle by the lot owner, a member of his family and/or guest or invitee shall subject the lot owner to legal action provided for enforcement of these Restrictive Covenants, notwithstanding that operation of the vehicle is by a person other than the record owner of the lot.",
+      "noticeText": "An off-road vehicle or other vehicle causing annoyance has been observed operating within the subdivision in violation of the restrictive covenants.",
+      "correctiveAction": "Please discontinue operation of prohibited off-road vehicles or other vehicles that create an annoyance within the subdivision.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Vehicles",
+      "title": "Parking and Vehicles",
+      "ruleSection": "Article III, Section 12",
+      "ruleText": "Each owner shall construct and maintain suitable and adequate parking spaces on his lot for the parking of motor vehicles prior to the occupancy of the Residence to be constructed thereon. No trucks or heavy equipment shall be permitted to be parked on the streets servicing the Properties or in the driveway of any Residences, except that each Owner shall be allowed to park one pickup truck, jeep or passenger van in the driveway of his Lot. Subject to the approval of the Architectural Control Committee, recreational vehicles and campers weighing up to 18,000 pounds gross vehicle weight may be maintained on a Lot, provided that any such recreational vehicle (i) must be parked on a driveway located on the side of the Residence so that the vehicle is no closer to the street than the front of the Residence and (ii) shall be subject to such other requirements as the Architectural Control Committee may impose. Boats and boat trailers weighing up to 7,500 pounds gross vehicle weight may be parked on any Lot on a driveway located on the side of the Residence so that the vehicle is no closer to the street than the front of the Residence and shall be subject to such other requirements as the Architectural Control Committee may impose. No boats, boat trailers or other equipment or vehicles weighing in excess of 7,500 pounds gross vehicle weight may be parked on any Lot other than (i) commercial vehicles temporarily located on the Properties to furnish necessary services to an Owner or (ii) temporary construction trucks and heavy equipment located on the Properties for construction purposes. No disabled, unlicensed or inoperable vehicle may be parked on the Properties. All vehicles parked on the Property must have current State inspections and State licenses at all times. For purposes of this section, there shall be deemed to be only one Owner per Residence.",
+      "noticeText": "A vehicle, recreational vehicle, boat, trailer, truck, or other equipment has been observed parked or maintained in a manner that may not comply with the community parking and vehicle restrictions.",
+      "correctiveAction": "Please remove, relocate, license, inspect, or otherwise correct the vehicle or parking condition so that it complies with Article III, Section 12 and any applicable Architectural Control Committee requirements.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Exterior",
+      "title": "Fences and Retaining Walls",
+      "ruleSection": "Article III, Section 13",
+      "ruleText": "Construction, location and design of any fence or retaining wall built for landscaping purposes must be approved by the Architectural Control Committee. Fences must be constructed of wood, brick, or stone. No fences shall be more than six feet in height and no fence shall extend beyond the front building line of the dwelling. All retaining walls built for landscaping purposes shall be composed of brick, stone or wood timbers.",
+      "noticeText": "A fence or retaining wall has been observed that may not comply with the community's approval, material, height, location, or design requirements.",
+      "correctiveAction": "Please bring the fence or retaining wall into compliance and obtain any required Architectural Control Committee approval.",
+      "correctionDays": 25,
+      "isActive": true
+    },
+    {
+      "category": "Landscaping",
+      "title": "Natural Vegetation and Clearing",
+      "ruleSection": "Article III, Section 14",
+      "ruleText": "It is declared to be the purpose and intent of the Declarant and the Lot owners to generally establish the Property as a development of homesites, utilizing the existing natural vegetation, topography and storm water drainage system as much as possible. Exceptions shall be permitted where necessary to meet Spotsylvania County requirements, and for the construction and reasonable clearing adjacent to homes, driveways, and other improvements, for assuring necessary vehicular sight distances, for fences and storage sheds, and for placement of utility services with related and required easements. Where clearing is proposed, excluding areas specifically authorized to be cleared, more latitude will be permitted in the clearing of soft wood species than in the case of hard wood species such as oak, poplar, hickory and similar species. This section shall not apply to the clearing or grubbing of trees and shrubs under three inches in diameter at a point one foot above the ground. No clearing shall be commenced on any lot until a site plan showing proposed limits of clearing is submitted to and approved by the Architectural Control Committee.",
+      "noticeText": "Clearing or removal of natural vegetation has been observed that may not comply with the community's clearing and approval requirements.",
+      "correctiveAction": "Please stop any unapproved clearing activity and submit the required site plan to the Architectural Control Committee before additional clearing occurs.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Landscaping",
+      "title": "Mowing, Weeds, Trash and Erosion Control",
+      "ruleSection": "Article IV, Section 1",
+      "ruleText": "All owners shall keep their Lots free of weeds, undergrowth, garbage, trash, debris and litter. It shall be the responsibility of each Owner to prevent the development of any unclean or unsightly conditions of the grounds on the Property which would tend to decrease the attractiveness of the neighborhood as a whole or the specific area. The height of the ground cover on a Lot, not including landscaping, shrubbery or flowers unless used for ground cover, shall be mowed to a height not exceeding six inches. All owners shall maintain adequate ground cover on all cleared areas to prevent erosion.",
+      "noticeText": "The lot has been observed with overgrown ground cover, weeds, undergrowth, trash, debris, litter, erosion concerns, or another unsightly ground condition.",
+      "correctiveAction": "Please mow ground cover to six inches or less, remove weeds, trash, debris and litter, and maintain adequate ground cover to prevent erosion.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Drainage",
+      "title": "Ditches and Swales",
+      "ruleSection": "Article IV, Section 2",
+      "ruleText": "It shall be the responsibility of every Owner of every lot on which any part of an open storm drainage ditch or swale is situated, to keep such portion thereof as may be situated upon his Lot continuously unobstructed and in good repair, including trimming of grass, weeds and other vegetation. The Owner shall not alter the course of any natural water way or open storm drainage ditch or swale that may be on or bordering said owner's Lot without approval from the Architectural Control Committee.",
+      "noticeText": "A drainage ditch, swale, or natural waterway on or bordering the property has been observed to be obstructed, poorly maintained, or altered without approval.",
+      "correctiveAction": "Please clear and maintain the ditch or swale, trim vegetation as needed, and restore any unapproved alteration unless otherwise approved by the Architectural Control Committee.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Exterior",
+      "title": "Upkeep of Improvements",
+      "ruleSection": "Article IV, Section 3",
+      "ruleText": "All improvements on the Property shall be kept in good repair, and where necessary, painted on a regular basis. The Owner shall prevent the development of any unsightly or unclean conditions of the improvements.",
+      "noticeText": "An improvement on the property has been observed to be in need of repair, painting, cleaning, or other maintenance.",
+      "correctiveAction": "Please repair, paint, clean, or otherwise maintain the improvement so that it is in good repair and does not present an unsightly or unclean condition.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Structures",
+      "title": "Temporary Structures",
+      "ruleSection": "Article IV, Section 4",
+      "ruleText": "No structure of a temporary character, nor any trailer, shack, or any other temporary outbuilding shall be placed on any Lot at any time; provided that construction trailers are allowed on the Properties for the purpose of sales or construction supervision.",
+      "noticeText": "A temporary structure, trailer, shack, or temporary outbuilding has been observed on the lot.",
+      "correctiveAction": "Please remove the prohibited temporary structure unless it qualifies as an allowed construction trailer used for sales or construction supervision.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Animals and Pets",
+      "ruleSection": "Article IV, Section 5",
+      "ruleText": "No livestock or poultry of any kind shall be raised, bred or kept on any Lot. No animals shall be kept, bred or maintained for commercial purposes. All dogs must be fenced or leashed. No animals or pets shall be kept on any Lot which are an annoyance or a nuisance to other lot owners or other residents in the vicinity of the Subdivision.",
+      "noticeText": "An animal or pet condition has been observed that may violate the community restrictions regarding livestock, poultry, commercial animal activity, dog restraint, or nuisance behavior.",
+      "correctiveAction": "Please correct the animal or pet condition, including removing prohibited livestock or poultry, discontinuing commercial animal activity, restraining dogs by fence or leash, and preventing nuisance behavior.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Signs",
+      "title": "Signs",
+      "ruleSection": "Article IV, Section 6",
+      "ruleText": "No sign of any kind shall be displayed to the public view on any Lot except (i) one sign of not more than six square feet advertising the Lot or Residence for sale or rent and (ii) signs used by a builder to advertise the Lot during the construction and sale of any Residence. Any lighted signs must have the express written approval of the Architectural Control Committee. All signs must be approved by the Architectural Control Committee.",
+      "noticeText": "A sign has been observed on the property that may not comply with the community's size, type, lighting, or approval requirements.",
+      "correctiveAction": "Please remove or modify the sign as necessary and obtain any required Architectural Control Committee approval.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Trash",
+      "title": "Garbage and Refuse Disposal",
+      "ruleSection": "Article IV, Section 7",
+      "ruleText": "No Lot shall be used or maintained as a dumping ground for rubbish. Trash, garbage or other waste must be kept in sanitary metal or plastic cans. All equipment for the storage and disposal of trash, garbage or other waste shall be kept behind the structure and shall be kept in a clean and sanitary condition at all times.",
+      "noticeText": "Trash, garbage, rubbish, waste containers, or related storage equipment has been observed in a location or condition that may not comply with the community requirements.",
+      "correctiveAction": "Please remove rubbish, place trash and waste in sanitary containers, and store all trash-related equipment behind the structure in a clean and sanitary condition.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Exterior",
+      "title": "Outdoor Clothes Poles and Clotheslines",
+      "ruleSection": "Article IV, Section 8",
+      "ruleText": "All outdoor clothes poles, clothesline and similar equipment shall be, as much as reasonably practical, placed or screened by shrubbery or harmonious screens as to not be visible from any streets within the Section or Subdivision.",
+      "noticeText": "Outdoor clothes poles, clotheslines, or similar equipment have been observed in a location visible from a street without adequate screening.",
+      "correctiveAction": "Please relocate or screen the outdoor clothesline equipment so that it is not visible from subdivision streets to the extent reasonably practical.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Safety",
+      "title": "Sight Distances at Intersections",
+      "ruleSection": "Article IV, Section 9",
+      "ruleText": "No fence, wall, hedge or shrub planting which obstructs sight lines at elevations greater than three feet above the roadways shall be placed or permitted to remain on any corner lot within the triangular area formed by the street property lines and a line connecting them at 25 feet from the intersections of the street lines, or in case of a rounded property corner from the intersection of the street property lines extended. No tree shall be permitted to remain within such distances of such intersections unless the foliage line is maintained at sufficient height to prevent obstruction of such sight lines.",
+      "noticeText": "A fence, wall, hedge, shrub, tree, or other vegetation has been observed obstructing required sight lines near an intersection.",
+      "correctiveAction": "Please trim, remove, or modify the obstruction as necessary to restore the required intersection sight distance.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Exterior",
+      "title": "Driveways and Culvert Pipes",
+      "ruleSection": "Article IV, Section 10",
+      "ruleText": "All driveways and private roads must be paved asphalt. All driveway pipes must be constructed of concrete or corrugated pipe. Each owner shall be responsible for placing the pipe and entrance at the street in accordance with the standards of the Virginia Department of Transportation (VDOT). Headwalls must be constructed at both ends of the culvert pipe using treated 6 x 6 lumber and the height must not extend more than 6 inches above the pavement. In the event that VDOT requires replacement of any pipe or paved entrance prior to the acceptance of the public streets located on the Property into the state secondary system, such pipe and headwalls must be replaced at the then Owner's expense.",
+      "noticeText": "A driveway, private road, culvert pipe, entrance, or headwall condition has been observed that may not comply with the community or VDOT-related requirements.",
+      "correctiveAction": "Please repair or modify the driveway, pipe, entrance, or headwalls as needed to comply with Article IV, Section 10 and applicable VDOT standards.",
+      "correctionDays": 20,
+      "isActive": true
+    },
+    {
+      "category": "Exterior",
+      "title": "Antennas and Solar Collectors",
+      "ruleSection": "Article IV, Section 11",
+      "ruleText": "No exterior antenna or satellite dishes shall be permitted on the Property. Solar collectors or panels which are not visible from a street may be installed and maintained on a Lot.",
+      "noticeText": "An exterior antenna, satellite dish, or street-visible solar collector or panel has been observed on the property.",
+      "correctiveAction": "Please remove the prohibited antenna or satellite dish, or relocate/screen solar collectors or panels so they are not visible from a street, as applicable.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Structures",
+      "title": "Swimming Pools",
+      "ruleSection": "Article IV, Section 12",
+      "ruleText": "No owner shall be allowed to construct an above-ground swimming pool on any Lot. One below-ground swimming pool may be constructed and maintained on a Lot provided that: (i) the design, excavation and building plans are first approved by the Architectural Control Committee in accordance with Article III of this Declaration; (ii) any mechanical equipment used to operate and maintain the swimming pool shall be screened from the view of adjacent Lots by appropriate landscaping or fencing; (iii) the swimming pool is located in the yard behind the Residence, not facing any street; and (iv) the pool is properly fenced.",
+      "noticeText": "A swimming pool or related equipment has been observed that may not comply with the community's pool type, approval, location, screening, or fencing requirements.",
+      "correctiveAction": "Please correct the pool condition and obtain any required Architectural Control Committee approval so the pool and related equipment comply with Article IV, Section 12.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Exterior",
+      "title": "Mail and Newspaper Boxes",
+      "ruleSection": "Article IV, Section 13",
+      "ruleText": "All mail/newspaper boxes shall initially be provided by the Declarant and installed by the owner. Replacement of damaged mail/newspaper boxes must be performed by the owner at the owner's expense, and the replacement boxes must conform to the ones provided by the Declarant and follow the standard design prescribed by the Architectural Control Committee.",
+      "noticeText": "The mail or newspaper box has been observed to be damaged, missing, or inconsistent with the standard community design.",
+      "correctiveAction": "Please repair or replace the mail/newspaper box at the owner's expense using a replacement that conforms to the standard design prescribed by the Architectural Control Committee.",
+      "correctionDays": 16,
+      "isActive": true
+    },
+    {
+      "category": "Exterior",
+      "title": "House Numbers",
+      "ruleSection": "Article IV, Section 14",
+      "ruleText": "House numbers are required for each Residence and shall be placed where lighting illuminates the house number. The height of the house numbers shall be no less than three inches and no more than six inches.",
+      "noticeText": "Required house numbers are missing, not adequately illuminated, or do not meet the required size range.",
+      "correctiveAction": "Please install or correct the house numbers so they are illuminated and between three and six inches in height.",
+      "correctionDays": 16,
+      "isActive": true
+    }
+]

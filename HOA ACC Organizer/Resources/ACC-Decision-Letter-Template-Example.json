@@ -1,0 +1,16 @@
+{
+  "associationName": "Smoketree Homeowners Association",
+  "committeeName": "Architectural Control Committee",
+  "approvedHeading": "APPROVED",
+  "conditionalHeading": "APPROVED WITH CONDITIONS",
+  "deniedHeading": "DENIED",
+  "approvalBody": "{{decisionDate}}\n\nDear {{applicantName}},\n\nThe Architectural Control Committee has completed its review of the application for Lot {{lotNumber}} at {{propertyAddress}}.\n\nProposed change:\n{{description}}\n\nThe application is APPROVED as submitted.\n\nACC recommendation:\n{{recommendation}}\n\nACC remarks:\n{{remarks}}\n\nPlease retain this decision letter with your property records.",
+  "conditionalBody": "{{decisionDate}}\n\nDear {{applicantName}},\n\nThe application for Lot {{lotNumber}} at {{propertyAddress}} is APPROVED WITH CONDITIONS.\n\nConditions / recommendation:\n{{recommendation}}\n\nACC remarks:\n{{remarks}}",
+  "deniedBody": "{{decisionDate}}\n\nDear {{applicantName}},\n\nThe application for Lot {{lotNumber}} at {{propertyAddress}} is DENIED.\n\nACC recommendation / reason:\n{{recommendation}}\n\nACC remarks:\n{{remarks}}",
+  "footerText": "Smoketree Homeowners Association - Architectural Control Committee",
+  "pageFormat": "US Letter",
+  "pageMargin": 54,
+  "decisionFontSize": 24,
+  "headerFontSize": 13,
+  "bodyFontSize": 11
+}
