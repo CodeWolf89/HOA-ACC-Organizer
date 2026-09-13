@@ -27,13 +27,26 @@ This checklist is tailored to the current HOA ACC Organizer source tree. It is n
 
 Use a public HTTPS URL that opens `PRIVACY.md` without requiring a GitHub login. For example, after creating the repository:
 
-`https://github.com/YOUR-GITHUB-ACCOUNT/HOA-ACC-Organizer/blob/main/PRIVACY.md`
+`https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/PRIVACY.md`
 
-Do not submit a placeholder URL. After publishing, also set the same URL in the app target Info.plist key `HOAPrivacyPolicyURL` so the in-app Privacy & Legal screen can open the public policy. Set `HOASupportURL` and `HOASourceCodeURL` to the corresponding public HTTPS pages.
+The project now uses this exact URL in `HOAPrivacyPolicyURL`.
 
 ### Support URL
 
-Provide a public page with a way to contact you. A repository support page, GitHub Pages site, or dedicated support page is appropriate. Do not require users to post private HOA data publicly.
+Use:
+
+`https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/SUPPORT.md`
+
+The support page directs non-sensitive software reports to `https://github.com/CodeWolf89/HOA-ACC-Organizer/issues` and warns users not to post private HOA/member information publicly. The project now uses this exact URL in `HOASupportURL`.
+
+### Source Code URL
+
+Use:
+
+`https://github.com/CodeWolf89/HOA-ACC-Organizer`
+
+The project now uses this exact URL in `HOASourceCodeURL`.
+
 
 ### App Privacy questionnaire
 

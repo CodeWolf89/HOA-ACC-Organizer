@@ -25,9 +25,9 @@ The current project tree contains HOA resource data such as property addresses. 
 
 ## Provisioned account verifier values
 
-`HOA ACC Organizer/ProvisionedAdministrators.swift` contains build-provisioned password-verifier values for the local accounts. They are not plaintext passwords, but public verifier values enable offline password guessing and should be treated as security-sensitive. If the repository will be public, rotate the production credentials and strongly consider moving provisioned credential material to a private build configuration rather than publishing the production verifier values.
+`HOA ACC Organizer/ProvisionedAdministrators.swift` contains build-provisioned password-verifier values for the local accounts. They are not plaintext passwords. Publishing verifier values can enable offline password guessing; the project owner has elected to accept that risk for this repository.
 
-The plaintext Apple Review password belongs only in App Store Connect's App Review Information.
+The plaintext Apple Review password still belongs only in App Store Connect's App Review Information and must not be committed to GitHub.
 
 ## Generated/private files ignored by the provided `.gitignore`
 

@@ -10,6 +10,14 @@ See LICENSE, NOTICE.md, and RESOURCE-RIGHTS.md in the repository root.
 
 HOA ACC Organizer is a native SwiftUI application for iPhone, iPad, and macOS that helps a homeowners association manage property records, violation enforcement, Architectural Control Committee (ACC) applications, photographs/PDF attachments, reminders, audit history, backups, and nearby-device synchronization.
 
+
+## Project links
+
+- Source repository: https://github.com/CodeWolf89/HOA-ACC-Organizer
+- Privacy policy: https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/PRIVACY.md
+- Support: https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/SUPPORT.md
+- License: https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/LICENSE
+
 ## Platforms
 
 The checked-in Xcode project currently targets iOS/iPadOS 18.6 and macOS 15.6. App Store uploads in 2026 must be built with a currently supported Xcode/SDK combination; see `APP-STORE-REVIEW.md` before release.
