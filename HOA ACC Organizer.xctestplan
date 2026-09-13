@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "C1B7B66B-80C8-441B-934C-118B97A90DB2",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:HOA ACC Organizer.xcodeproj",
+      "identifier" : "579525EA304A18F900893622",
+      "name" : "HOA ACC Organizer"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:HOA ACC Organizer.xcodeproj",
+        "identifier" : "579525F9304A18FB00893622",
+        "name" : "HOA ACC OrganizerTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:HOA ACC Organizer.xcodeproj",
+        "identifier" : "57952603304A18FB00893622",
+        "name" : "HOA ACC OrganizerUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

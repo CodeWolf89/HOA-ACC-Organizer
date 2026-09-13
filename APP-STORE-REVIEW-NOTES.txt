@@ -1,0 +1,33 @@
+HOA ACC Organizer is a local-first HOA/Architectural Control Committee records application.
+
+REVIEW LOGIN
+Username: Apple_ReviewAccount
+Password: ENTER THE CURRENT PASSWORD ONLY IN APP STORE CONNECT'S SECURE REVIEW PASSWORD FIELD.
+
+KEY REVIEW NOTES
+- The app stores its working records locally on the device. It has no developer-operated cloud backend and no advertising or third-party analytics SDK.
+- A reviewer can test core functionality without a second device or nearby sync.
+- Nearby sync uses Apple's Network.framework/Bonjour on the local network and is optional. If the reviewer denies Local Network permission, core property, violation, ACC, PDF, audit, import/export, and local reminder workflows remain available.
+- ACC PDF recognition uses Vision OCR locally. On supported Apple Intelligence devices/OS versions, Apple's on-device Foundation Models framework may assist with organizing OCR text. If unavailable, the app automatically uses the Vision/deterministic fallback.
+- Camera, Photos, notifications, Face ID/Touch ID, and Local Network access are requested only when their related features are used.
+- There is no user self-registration. Accounts are provisioned locally by the app owner/organization. The Apple review account is an administrator account intended for App Review.
+- Privacy & Legal is available from the app's global controls.
+
+SUGGESTED REVIEW PATH
+1. Sign in using the review account above.
+2. Select a lot/property.
+3. Create a violation and optionally attach a photo.
+4. Open the violation, adjudicate or edit it, and create a PDF report.
+5. Add an ACC application manually or import an ACC PDF.
+6. Open the ACC application and review/adjudicate it.
+7. Open Audit History to see logged administrative changes.
+8. Open Privacy & Legal.
+
+If App Review needs sample input files, attach sanitized sample JSON/PDF files in App Store Connect rather than placing private HOA member data in review notes.
+
+--- REPOSITORY FILE NOTICE ---
+Copyright © 2026 Christopher Mcmahon-Sutton.
+Licensed under the PolyForm Perimeter License 1.0.1.
+Author: Christopher Mcmahon-Sutton.
+Additional modification, documentation, and testing assistance: ChatGPT (GPT-5.6 Sol), OpenAI — 2026-09-13.
+See LICENSE, NOTICE.md, and RESOURCE-RIGHTS.md in the repository root.

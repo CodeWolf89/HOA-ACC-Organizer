@@ -1,0 +1,68 @@
+# Copyright © 2026 Christopher Mcmahon-Sutton.
+# Licensed under the PolyForm Perimeter License 1.0.1.
+# Author: Christopher Mcmahon-Sutton.
+# Additional modification, documentation, and testing assistance: ChatGPT (GPT-5.6 Sol), OpenAI — 2026-09-13.
+# See LICENSE, NOTICE.md, and RESOURCE-RIGHTS.md in the repository root.
+
+name: HOA ACC Organizer
+options:
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: 5.0
+targets:
+  HOA ACC Organizer:
+    type: application
+    platform: [iOS, macOS]
+    deploymentTarget:
+      iOS: "18.6"
+      macOS: "15.6"
+    sources:
+      - path: HOA ACC Organizer
+    resources:
+      - path: HOA ACC Organizer/Resources
+      - path: HOA ACC Organizer/Assets.xcassets
+      - path: HOA ACC Organizer/PrivacyInfo.xcprivacy
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.shoa.acc.HOA-ACC-Organizer
+        PRODUCT_NAME: HOA ACC Organizer
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ENABLE_INCOMING_NETWORK_CONNECTIONS: YES
+        ENABLE_OUTGOING_NETWORK_CONNECTIONS: YES
+        GENERATE_INFOPLIST_FILE: NO
+        INFOPLIST_FILE: "$(SRCROOT)/HOA-ACC-Organizer-Info.plist"
+        INFOPLIST_KEY_CFBundleDisplayName: HOA ACC Organizer
+        INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace: YES
+        INFOPLIST_KEY_UIFileSharingEnabled: YES
+        INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: NO
+        INFOPLIST_KEY_NSHumanReadableCopyright: Copyright © 2026 Christopher Mcmahon-Sutton
+        INFOPLIST_KEY_NSFaceIDUsageDescription: HOA ACC Organizer uses Face ID to unlock a previously authenticated local account on this device.
+        INFOPLIST_KEY_NSCameraUsageDescription: HOA ACC Organizer uses the camera when you choose to photograph an HOA violation or attach supporting photos to an ACC application.
+        INFOPLIST_KEY_NSPhotoLibraryUsageDescription: HOA ACC Organizer uses photos you select to document HOA violations and ACC applications.
+        INFOPLIST_KEY_NSLocalNetworkUsageDescription: HOA ACC Organizer uses your local network to synchronize HOA records and attachments with nearby compatible devices and to receive violation reports from the companion violation app.
+        INFOPLIST_KEY_NSBonjourServices:
+          - _hoaacc._tcp
+          - _hoavfeed._tcp
+    dependencies:
+      - sdk: libsqlite3.tbd
+      - framework: Network.framework
+      - framework: PDFKit.framework
+      - framework: Vision.framework
+      - framework: FoundationModels.framework
+      - framework: LocalAuthentication.framework
+      - framework: Security.framework
+  HOA ACC OrganizerTests:
+    type: bundle.unit-test
+    platform: [iOS, macOS]
+    sources:
+      - HOA ACC OrganizerTests
+    dependencies:
+      - target: HOA ACC Organizer
+  HOA ACC OrganizerUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - HOA ACC OrganizerUITests
+    dependencies:
+      - target: HOA ACC Organizer

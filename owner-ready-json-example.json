@@ -1,0 +1,21 @@
+{
+  "exportedAt": "2026-08-29T02:11:40Z",
+  "format": "ACC-HOA-VIOLATION-BATCH",
+  "reports": [
+    {
+      "id": "EXAMPLE",
+      "observedAt": "2026-08-22T21:12:34Z",
+      "property": {
+        "id": "1EBF790B-8CB8-4AFF-B1E8-E45C94EDAD12",
+        "lotNumber": "52",
+        "primaryAddress": "11711 Woodland View Drive Fredericksburg VA 22407",
+        "ownerName": "OWNER NAME",
+        "billingAddress": "",
+        "isRentalUnit": false
+      },
+      "photos": [],
+      "rules": [],
+      "statusRaw": "Open"
+    }
+  ]
+}

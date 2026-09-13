@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Copyright © 2026 Christopher Mcmahon-Sutton. Licensed under the PolyForm Perimeter License 1.0.1. Author: Christopher Mcmahon-Sutton. Additional modification, documentation, and testing assistance: ChatGPT (GPT-5.6 Sol), OpenAI — 2026-09-13. See LICENSE, NOTICE.md, and RESOURCE-RIGHTS.md. -->
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>HOA ACC Organizer</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_hoaacc._tcp</string>
+		<string>_hoavfeed._tcp</string>
+	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>HOA ACC Organizer uses the camera when you choose to photograph an HOA violation or attach supporting photos to an ACC application.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>HOA ACC Organizer uses Face ID to unlock a previously authenticated local account on this device.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>HOA ACC Organizer uses your local network to synchronize HOA records and attachments with nearby compatible devices and to receive violation reports from the companion violation app.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>HOA ACC Organizer uses photos you select to document HOA violations and ACC applications.</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchScreen</key>
+	<dict/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Christopher Mcmahon-Sutton</string>
+	<key>HOAPrivacyPolicyURL</key>
+	<string></string>
+	<key>HOASupportURL</key>
+	<string></string>
+	<key>HOASourceCodeURL</key>
+	<string></string>
+</dict>
+</plist>
