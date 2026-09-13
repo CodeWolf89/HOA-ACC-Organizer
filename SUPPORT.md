@@ -10,8 +10,14 @@ See LICENSE, NOTICE.md, and RESOURCE-RIGHTS.md in the repository root.
 
 HOA ACC Organizer is maintained by Christopher Mcmahon-Sutton.
 
-For App Store users, support contact information should be provided through the public Support URL configured in App Store Connect. A GitHub repository or GitHub Pages site can be used for this purpose once it is published.
+The public support page for HOA ACC Organizer is this document in the source repository:
 
-For privacy or HOA-record deletion/correction requests, do not post member names, addresses, phone numbers, email addresses, violation details, application PDFs, or photographs in a public issue. Use a private support channel or contact the responsible HOA administrator.
+`https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/SUPPORT.md`
 
-For software defects, include the app version/build, device model, OS version, steps to reproduce, and screenshots that do not expose private member information.
+For software defects that do **not** contain private HOA/member information, use GitHub Issues:
+
+`https://github.com/CodeWolf89/HOA-ACC-Organizer/issues`
+
+For privacy or HOA-record deletion/correction requests, do **not** post member names, addresses, phone numbers, email addresses, violation details, application PDFs, signatures, or photographs in a public issue. Contact the responsible HOA administrator or repository owner through an appropriate private channel.
+
+When reporting a software defect, include the app version/build, device model, OS version, steps to reproduce, and screenshots that do not expose private member information.

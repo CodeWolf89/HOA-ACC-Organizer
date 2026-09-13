@@ -4,6 +4,11 @@ REVIEW LOGIN
 Username: Apple_ReviewAccount
 Password: ENTER THE CURRENT PASSWORD ONLY IN APP STORE CONNECT'S SECURE REVIEW PASSWORD FIELD.
 
+PUBLIC LINKS
+- Privacy Policy: https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/PRIVACY.md
+- Support: https://github.com/CodeWolf89/HOA-ACC-Organizer/blob/main/SUPPORT.md
+- Source Repository: https://github.com/CodeWolf89/HOA-ACC-Organizer
+
 KEY REVIEW NOTES
 - The app stores its working records locally on the device. It has no developer-operated cloud backend and no advertising or third-party analytics SDK.
 - A reviewer can test core functionality without a second device or nearby sync.
