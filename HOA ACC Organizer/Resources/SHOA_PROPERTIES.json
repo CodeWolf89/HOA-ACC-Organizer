@@ -1,0 +1,1298 @@
+[
+  {
+    "lotNumber": "1",
+    "primaryAddress": "7001 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "2",
+    "primaryAddress": "7003 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "3",
+    "primaryAddress": "7005 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "4",
+    "primaryAddress": "7007 Cedar Crest Drive Fredericksburg VA 22407 ",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "5",
+    "primaryAddress": "12001 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "6",
+    "primaryAddress": "12003 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "7",
+    "primaryAddress": "12005 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "8",
+    "primaryAddress": "12007 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "9",
+    "primaryAddress": "12009 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "10",
+    "primaryAddress": "12011 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "11",
+    "primaryAddress": "12013 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "12",
+    "primaryAddress": "12014 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "13",
+    "primaryAddress": "12012 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "14",
+    "primaryAddress": "12010 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "15",
+    "primaryAddress": "12008 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "16",
+    "primaryAddress": "12006 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "17",
+    "primaryAddress": "12004 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "18",
+    "primaryAddress": "12002 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "19",
+    "primaryAddress": "12000 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "20",
+    "primaryAddress": "7103 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "21",
+    "primaryAddress": "7105 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "22",
+    "primaryAddress": "7107 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "23",
+    "primaryAddress": "7109 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "24",
+    "primaryAddress": "11919 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "25",
+    "primaryAddress": "11921 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "26",
+    "primaryAddress": "11922 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "27",
+    "primaryAddress": "11920 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "28",
+    "primaryAddress": "11918 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "29",
+    "primaryAddress": "11916 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "30",
+    "primaryAddress": "11914 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "31",
+    "primaryAddress": "11912 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "32",
+    "primaryAddress": "11910 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "33",
+    "primaryAddress": "11908 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "34",
+    "primaryAddress": "11906 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "35",
+    "primaryAddress": "11904 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "36",
+    "primaryAddress": "11902 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "37",
+    "primaryAddress": "11900 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "38",
+    "primaryAddress": "11818 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "39",
+    "primaryAddress": "11816 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "40",
+    "primaryAddress": "11814 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "41",
+    "primaryAddress": "11812 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "42",
+    "primaryAddress": "11810 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "43",
+    "primaryAddress": "11808 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "44",
+    "primaryAddress": "11806 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "45",
+    "primaryAddress": "11804 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "46",
+    "primaryAddress": "11802 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "47",
+    "primaryAddress": "11700 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "48",
+    "primaryAddress": "11701 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "49",
+    "primaryAddress": "11705 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "50",
+    "primaryAddress": "11707 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "51",
+    "primaryAddress": "11709 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "52",
+    "primaryAddress": "11711 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "53",
+    "primaryAddress": "11801 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "54",
+    "primaryAddress": "11803 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "55",
+    "primaryAddress": "11805 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "56",
+    "primaryAddress": "11807 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "57",
+    "primaryAddress": "11809 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "58",
+    "primaryAddress": "11811 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "59",
+    "primaryAddress": "11813 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "60",
+    "primaryAddress": "11815 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "61",
+    "primaryAddress": "11817 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "62",
+    "primaryAddress": "11819 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "63",
+    "primaryAddress": "11823 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "64",
+    "primaryAddress": "11825 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "65",
+    "primaryAddress": "11901 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "66",
+    "primaryAddress": "11903 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "67",
+    "primaryAddress": "11905 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "68",
+    "primaryAddress": "11907 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "69",
+    "primaryAddress": "11909 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "70",
+    "primaryAddress": "11911 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "71",
+    "primaryAddress": "11913 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "72",
+    "primaryAddress": "11915 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "73",
+    "primaryAddress": "11917 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "74",
+    "primaryAddress": "11919 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "75",
+    "primaryAddress": "11921 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "76",
+    "primaryAddress": "11923 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "77",
+    "primaryAddress": "11925 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "78",
+    "primaryAddress": "11927 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "79",
+    "primaryAddress": "11929 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "80",
+    "primaryAddress": "11931 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "81",
+    "primaryAddress": "11933 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "82",
+    "primaryAddress": "6901 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "83",
+    "primaryAddress": "6903 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "84",
+    "primaryAddress": "6905 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "85",
+    "primaryAddress": "6907 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "86",
+    "primaryAddress": "6909 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "87",
+    "primaryAddress": "6913 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "88",
+    "primaryAddress": "11932 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "89",
+    "primaryAddress": "11930 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "90",
+    "primaryAddress": "11928 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "91",
+    "primaryAddress": "11926 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "92",
+    "primaryAddress": "11924 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "93",
+    "primaryAddress": "11922 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "94",
+    "primaryAddress": "11920 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "95",
+    "primaryAddress": "11918 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "96",
+    "primaryAddress": "11916 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "97",
+    "primaryAddress": "11914 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "98",
+    "primaryAddress": "11912 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "99",
+    "primaryAddress": "11910 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "100",
+    "primaryAddress": "11906 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "101",
+    "primaryAddress": "11906 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "102",
+    "primaryAddress": "11801 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "103",
+    "primaryAddress": "11803 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "104",
+    "primaryAddress": "11805 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "105",
+    "primaryAddress": "11807 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "106",
+    "primaryAddress": "11809 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "107",
+    "primaryAddress": "11811 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "108",
+    "primaryAddress": "11813 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "109",
+    "primaryAddress": "11815 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "110",
+    "primaryAddress": "11817 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "111",
+    "primaryAddress": "11903 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "112",
+    "primaryAddress": "11905 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "113",
+    "primaryAddress": "11907 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "114",
+    "primaryAddress": "11909 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "115",
+    "primaryAddress": "11911 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "116",
+    "primaryAddress": "6912 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "117",
+    "primaryAddress": "6910 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "118",
+    "primaryAddress": "11914 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "119",
+    "primaryAddress": "11912 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "120",
+    "primaryAddress": "11910 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "121",
+    "primaryAddress": "11908 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "122",
+    "primaryAddress": "11906 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "123",
+    "primaryAddress": "11900 Smoketree Blvd. Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "124",
+    "primaryAddress": "11903 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "125",
+    "primaryAddress": "11905 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "126",
+    "primaryAddress": "11907 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "127",
+    "primaryAddress": "11911 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "128",
+    "primaryAddress": "7010 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "129",
+    "primaryAddress": "7008 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "130",
+    "primaryAddress": "7006 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "131",
+    "primaryAddress": "11914 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "132",
+    "primaryAddress": "11912 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "133",
+    "primaryAddress": "11910 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "134",
+    "primaryAddress": "11908 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "135",
+    "primaryAddress": "11906 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "136",
+    "primaryAddress": "11904 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "137",
+    "primaryAddress": "11902 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "138",
+    "primaryAddress": "11900 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "139",
+    "primaryAddress": "11818 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "140",
+    "primaryAddress": "11816 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "141",
+    "primaryAddress": "11814 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "142",
+    "primaryAddress": "11812 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "143",
+    "primaryAddress": "11810 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "144",
+    "primaryAddress": "11808 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "145",
+    "primaryAddress": "11806 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "146",
+    "primaryAddress": "11804 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "147",
+    "primaryAddress": "11802 Arbor Glen Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "148",
+    "primaryAddress": "11820 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "149",
+    "primaryAddress": "11814 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "150",
+    "primaryAddress": "11801 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "151",
+    "primaryAddress": "11803 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "152",
+    "primaryAddress": "11805 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "153",
+    "primaryAddress": "11807 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "154",
+    "primaryAddress": "11809 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "155",
+    "primaryAddress": "11811 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "156",
+    "primaryAddress": "11813 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "157",
+    "primaryAddress": "11815 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "158",
+    "primaryAddress": "11817 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "159",
+    "primaryAddress": "11819 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "160",
+    "primaryAddress": "11821 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "161",
+    "primaryAddress": "11901 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "162",
+    "primaryAddress": "11903 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "163",
+    "primaryAddress": "11905 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "164",
+    "primaryAddress": "11907 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "165",
+    "primaryAddress": "11911 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "166",
+    "primaryAddress": "11913 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "167",
+    "primaryAddress": "11915 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "168",
+    "primaryAddress": "11917 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "169",
+    "primaryAddress": "7108 Cedar Crest Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "170",
+    "primaryAddress": "11914 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "171",
+    "primaryAddress": "11912 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "172",
+    "primaryAddress": "11910 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "173",
+    "primaryAddress": "11908 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "174",
+    "primaryAddress": "11906 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "175",
+    "primaryAddress": "11904 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "176",
+    "primaryAddress": "11900 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "177",
+    "primaryAddress": "11814 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "178",
+    "primaryAddress": "11812 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "179",
+    "primaryAddress": "11810 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "180",
+    "primaryAddress": "11808 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "181",
+    "primaryAddress": "11806 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "182",
+    "primaryAddress": "11804 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "183",
+    "primaryAddress": "11802 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "184",
+    "primaryAddress": "11800 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "185",
+    "primaryAddress": "11706 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "186",
+    "primaryAddress": "11801 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "187",
+    "primaryAddress": "11803 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "188",
+    "primaryAddress": "11805 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "189",
+    "primaryAddress": "11807 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "190",
+    "primaryAddress": "11809 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "191",
+    "primaryAddress": "11811 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "192",
+    "primaryAddress": "11813 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "193",
+    "primaryAddress": "11815 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "194",
+    "primaryAddress": "11817 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "195",
+    "primaryAddress": "11901 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "196",
+    "primaryAddress": "11903 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "197",
+    "primaryAddress": "11905 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "198",
+    "primaryAddress": "11909 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "199",
+    "primaryAddress": "11911 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "200",
+    "primaryAddress": "11915 Hickory Creek Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "201",
+    "primaryAddress": "11817 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "202",
+    "primaryAddress": "11816 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "203",
+    "primaryAddress": "11810 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "204",
+    "primaryAddress": "11808 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "205",
+    "primaryAddress": "11804 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "206",
+    "primaryAddress": "11802 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "207",
+    "primaryAddress": "11800 Oakhurst Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "208",
+    "primaryAddress": "11806 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "209",
+    "primaryAddress": "11804 Woodland View Drive Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "210",
+    "primaryAddress": "11801 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "211",
+    "primaryAddress": "11803 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "212",
+    "primaryAddress": "11805 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "213",
+    "primaryAddress": "11807 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "214",
+    "primaryAddress": "11809 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "215",
+    "primaryAddress": "11811 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  },
+  {
+    "lotNumber": "216",
+    "primaryAddress": "11813 Timbermill Lane Fredericksburg VA 22407",
+    "billingAddress": "",
+    "isRentalUnit": false
+  }
+]

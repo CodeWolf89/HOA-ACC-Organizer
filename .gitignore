@@ -1,0 +1,21 @@
+
+# Private HOA homeowner / owner master-data files
+**/SHOA_HOMEOWNER_DATA.json
+**/SHOA_OWNER_DATA.json
+**/*HOMEOWNER*.json
+**/*OWNER_DATA*.json
+
+# Runtime databases and SQLite sidecars
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.sqlite-wal
+*.sqlite-shm
+
+# Runtime exports, backups, and attachments
+Attachments/
+Backups/
+Exports/
+*.backup
